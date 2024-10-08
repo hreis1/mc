@@ -1,0 +1,10 @@
+pt-BR:
+  hello: "Olá, mundo!"
+  number:
+    currency:
+      format:
+        format: "%u%n"
+        unit: "R$"
+        separator: ","
+        delimiter: "."
+        precision: 2
